@@ -23,4 +23,4 @@ if __name__ == "__main__":
         risk_percent=1,               # 1% risk per trade
         risk_reward_ratio=2,          # Risk-Reward ratio of 2
         initial_capital=100,          # Initial capital of $100
-        lot_size=0.01)
+        lot_size=0.01)                # Lot size - 0.01
